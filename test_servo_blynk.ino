@@ -8,9 +8,9 @@
 #include <Servo.h> 
 
 //Definisi variabel token, SSID, password 
-char auth[] = "P3cYuS4mVl5bu2c0GxilkWgTpxiIRJQd"; 
-char ssid[] = "TECH_52B8"; 
-char pass[] = "092112055"; 
+char auth[] = "Your Auth Token"; 
+char ssid[] = "Your Wifi"; 
+char pass[] = "Tour Password"; 
 
 //Definisi fungsi servo menjadi gerak_servo 
 Servo gerak_servo; 
