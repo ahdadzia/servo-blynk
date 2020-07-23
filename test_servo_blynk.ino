@@ -10,7 +10,7 @@
 //Definisi variabel token, SSID, password 
 char auth[] = "Your Auth Token"; 
 char ssid[] = "Your Wifi"; 
-char pass[] = "Tour Password"; 
+char pass[] = "Your Password"; 
 
 //Definisi fungsi servo menjadi gerak_servo 
 Servo gerak_servo; 
